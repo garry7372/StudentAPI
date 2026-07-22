@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Migrations\\20260722164628_useplsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260722164628_useplsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|c:\\users\\hp\\desktop\\project\\studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|c:\\users\\hp\\desktop\\project\\studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|c:\\users\\hp\\desktop\\project\\studentapi\\studentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|solutionrelative:studentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|c:\\users\\hp\\desktop\\project\\studentapi\\migrations\\20260722164628_useplsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|solutionrelative:migrations\\20260722164628_useplsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|c:\\users\\hp\\desktop\\project\\studentapi\\studentapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|solutionrelative:studentapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|c:\\users\\hp\\desktop\\project\\studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|c:\\users\\hp\\desktop\\project\\studentapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|c:\\users\\hp\\desktop\\project\\studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|c:\\users\\hp\\desktop\\project\\studentapi\\models\\conversationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -170,11 +174,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "StudentAPI",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\StudentAPI.csproj",
+              "RelativeDocumentMoniker": "StudentAPI.csproj",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\StudentAPI.csproj",
+              "RelativeToolTip": "StudentAPI.csproj",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-22T17:28:18.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "20260722164628_useplsql.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Migrations\\20260722164628_useplsql.cs",
               "RelativeDocumentMoniker": "Migrations\\20260722164628_useplsql.cs",
@@ -187,33 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentAPI.http",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\StudentAPI.http",
-              "RelativeDocumentMoniker": "StudentAPI.http",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\StudentAPI.http",
-              "RelativeToolTip": "StudentAPI.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-07-22T16:43:59.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAASwGwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T15:26:50.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -221,12 +212,11 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-20T19:26:10.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-20T19:26:10.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
@@ -234,38 +224,61 @@
               "RelativeToolTip": "Controllers\\AdminController.cs",
               "ViewState": "AgIAABACAAAAAAAAAADwvyICAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T15:41:01.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-05T15:41:01.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAGcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-05T15:59:06.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAC5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-07-15T08:50:15.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAASwGwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T15:26:50.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentAPI.http",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\StudentAPI.http",
+              "RelativeDocumentMoniker": "StudentAPI.http",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\StudentAPI.http",
+              "RelativeToolTip": "StudentAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-07-22T16:43:59.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "LoginResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\DTOs\\LoginResponseDto.cs",
               "RelativeDocumentMoniker": "DTOs\\LoginResponseDto.cs",
@@ -273,12 +286,11 @@
               "RelativeToolTip": "DTOs\\LoginResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T15:35:05.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-05T15:35:05.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ChatService.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Services\\ChatService.cs",
               "RelativeDocumentMoniker": "Services\\ChatService.cs",
@@ -286,12 +298,11 @@
               "RelativeToolTip": "Services\\ChatService.cs",
               "ViewState": "AgIAAOsAAAAAAAAAAAAIwPUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T18:04:46.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-20T18:04:46.574Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ConversationStatus.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Models\\ConversationStatus.cs",
               "RelativeDocumentMoniker": "Models\\ConversationStatus.cs",
@@ -299,12 +310,11 @@
               "RelativeToolTip": "Models\\ConversationStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T17:54:30.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-20T17:54:30.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IChatService.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Interfaces\\IChatService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IChatService.cs",
@@ -312,12 +322,11 @@
               "RelativeToolTip": "Interfaces\\IChatService.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T18:04:29.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-20T18:04:29.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AdminChatController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Controllers\\AdminChatController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminChatController.cs",
@@ -325,12 +334,11 @@
               "RelativeToolTip": "Controllers\\AdminChatController.cs",
               "ViewState": "AgIAAFYAAAAAAAAAAAAIwHAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T18:05:18.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-20T18:05:18.828Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ConversationDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\DTOs\\Chat\\ConversationDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Chat\\ConversationDto.cs",
@@ -338,12 +346,11 @@
               "RelativeToolTip": "DTOs\\Chat\\ConversationDto.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAgwBcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T18:03:35.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-20T18:03:35.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "StudentForm.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Models\\StudentForm.cs",
               "RelativeDocumentMoniker": "Models\\StudentForm.cs",
@@ -351,12 +358,11 @@
               "RelativeToolTip": "Models\\StudentForm.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwCgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T17:44:16.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T17:44:16.866Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -364,12 +370,11 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAswCgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T15:24:42.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-05T15:24:42.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ChatConversation.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Models\\ChatConversation.cs",
               "RelativeDocumentMoniker": "Models\\ChatConversation.cs",
@@ -377,12 +382,11 @@
               "RelativeToolTip": "Models\\ChatConversation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAwwB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T17:57:29.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-20T17:57:29.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ChatMessage.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Models\\ChatMessage.cs",
               "RelativeDocumentMoniker": "Models\\ChatMessage.cs",
@@ -390,12 +394,11 @@
               "RelativeToolTip": "Models\\ChatMessage.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAqwBMAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T17:57:48.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-20T17:57:48.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -403,12 +406,11 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T15:26:04.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-05T15:26:04.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ChatSetting.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Models\\ChatSetting.cs",
               "RelativeDocumentMoniker": "Models\\ChatSetting.cs",
@@ -416,12 +418,11 @@
               "RelativeToolTip": "Models\\ChatSetting.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T18:32:06.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-20T18:32:06.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ChatController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Controllers\\ChatController.cs",
               "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
@@ -429,12 +430,11 @@
               "RelativeToolTip": "Controllers\\ChatController.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAwwEcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T18:05:06.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-20T18:05:06.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
@@ -442,12 +442,11 @@
               "RelativeToolTip": "Controllers\\StudentController.cs",
               "ViewState": "AgIAAJcAAAAAAAAAAIBJwKgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T15:40:38.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-05T15:40:38.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "MessageDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\DTOs\\Chat\\MessageDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Chat\\MessageDto.cs",
@@ -455,12 +454,11 @@
               "RelativeToolTip": "DTOs\\Chat\\MessageDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T18:03:48.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-20T18:03:48.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "ReplyMessageDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\DTOs\\Chat\\ReplyMessageDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Chat\\ReplyMessageDto.cs",
@@ -468,12 +466,11 @@
               "RelativeToolTip": "DTOs\\Chat\\ReplyMessageDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T18:04:01.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-20T18:04:01.852Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "SendMessageDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\DTOs\\Chat\\SendMessageDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Chat\\SendMessageDto.cs",
@@ -481,12 +478,11 @@
               "RelativeToolTip": "DTOs\\Chat\\SendMessageDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T18:03:16.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-20T18:03:16.326Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "AdminSettingsDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\DTOs\\AdminSettingsDto.cs",
               "RelativeDocumentMoniker": "DTOs\\AdminSettingsDto.cs",
@@ -494,12 +490,11 @@
               "RelativeToolTip": "DTOs\\AdminSettingsDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAwwB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T18:03:42.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-18T18:03:42.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "CityReportDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\DTOs\\CityReportDto.cs",
               "RelativeDocumentMoniker": "DTOs\\CityReportDto.cs",
@@ -507,12 +502,11 @@
               "RelativeToolTip": "DTOs\\CityReportDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T10:54:05.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-18T10:54:05.387Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "StateReportDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\DTOs\\StateReportDto.cs",
               "RelativeDocumentMoniker": "DTOs\\StateReportDto.cs",
@@ -520,12 +514,11 @@
               "RelativeToolTip": "DTOs\\StateReportDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T10:54:32.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-18T10:54:32.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\DTOs\\LoginDto.cs",
               "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
@@ -533,12 +526,11 @@
               "RelativeToolTip": "DTOs\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T15:34:38.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-05T15:34:38.206Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "ReportsDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\DTOs\\ReportsDto.cs",
               "RelativeDocumentMoniker": "DTOs\\ReportsDto.cs",
@@ -546,12 +538,11 @@
               "RelativeToolTip": "DTOs\\ReportsDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T10:53:35.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-18T10:53:35.515Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "MonthlyReportDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\DTOs\\MonthlyReportDto.cs",
               "RelativeDocumentMoniker": "DTOs\\MonthlyReportDto.cs",
@@ -559,12 +550,11 @@
               "RelativeToolTip": "DTOs\\MonthlyReportDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T10:55:42.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-18T10:55:42.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "ChangeRoleDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\DTOs\\ChangeRoleDto.cs",
               "RelativeDocumentMoniker": "DTOs\\ChangeRoleDto.cs",
@@ -572,12 +562,11 @@
               "RelativeToolTip": "DTOs\\ChangeRoleDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-17T10:32:54.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-17T10:32:54.42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\DTOs\\UserDto.cs",
               "RelativeDocumentMoniker": "DTOs\\UserDto.cs",
@@ -585,12 +574,11 @@
               "RelativeToolTip": "DTOs\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-17T10:30:21.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-17T10:30:21.29Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "UpdateUserDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\DTOs\\UpdateUserDto.cs",
               "RelativeDocumentMoniker": "DTOs\\UpdateUserDto.cs",
@@ -598,12 +586,11 @@
               "RelativeToolTip": "DTOs\\UpdateUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-17T10:32:05.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-17T10:32:05.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "ChangeStatusDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\DTOs\\ChangeStatusDto.cs",
               "RelativeDocumentMoniker": "DTOs\\ChangeStatusDto.cs",
@@ -611,12 +598,11 @@
               "RelativeToolTip": "DTOs\\ChangeStatusDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-17T10:33:28.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-17T10:33:28.746Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "ExceptionMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Middleware\\ExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "Middleware\\ExceptionMiddleware.cs",
@@ -624,12 +610,11 @@
               "RelativeToolTip": "Middleware\\ExceptionMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T18:34:54.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T18:34:54.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\DTOs\\RegisterDto.cs",
               "RelativeDocumentMoniker": "DTOs\\RegisterDto.cs",
@@ -637,12 +622,11 @@
               "RelativeToolTip": "DTOs\\RegisterDto.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAA1wCgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T15:24:19.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-05T15:24:19.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "ChangePasswordDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\DTOs\\ChangePasswordDto.cs",
               "RelativeDocumentMoniker": "DTOs\\ChangePasswordDto.cs",
@@ -650,12 +634,11 @@
               "RelativeToolTip": "DTOs\\ChangePasswordDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T09:55:16.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-15T09:55:16.278Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "UserRole.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Models\\UserRole.cs",
               "RelativeDocumentMoniker": "Models\\UserRole.cs",
@@ -663,12 +646,11 @@
               "RelativeToolTip": "Models\\UserRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T15:24:58.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-05T15:24:58.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\Models\\ApiResponse.cs",
               "RelativeDocumentMoniker": "Models\\ApiResponse.cs",
@@ -676,12 +658,11 @@
               "RelativeToolTip": "Models\\ApiResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T18:33:24.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T18:33:24.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "StudentFormDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\StudentAPI\\DTOs\\StudentFormDto.cs",
               "RelativeDocumentMoniker": "DTOs\\StudentFormDto.cs",
@@ -689,8 +670,7 @@
               "RelativeToolTip": "DTOs\\StudentFormDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAwwB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T17:49:49.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T17:49:49.132Z"
             }
           ]
         }
