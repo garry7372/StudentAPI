@@ -116,5 +116,6 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
+app.MapGet("/", () => "Student API is running successfully on Render!");
 
 app.Run();
